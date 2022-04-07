@@ -6,7 +6,7 @@ import java.util.ArrayList;
 public class App {
     public static void main(String[] args) {
 
-        String inputFileName = "D:\\Projects\\otp\\eaist\\test\\src\\text";
+        String inputFileName = "src/test";
         ArrayList<String> list = new ArrayList();
         ArrayList<Person> listPerson = new ArrayList<>();
 
